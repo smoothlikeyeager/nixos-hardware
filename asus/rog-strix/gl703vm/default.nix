@@ -1,3 +1,4 @@
+{ pkgs, lib, ... }:
 {
   imports = [
     ../../../common/cpu/intel/cpu-only.nix
